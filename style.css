@@ -1,0 +1,21 @@
+h1,
+h2,
+p,
+h4 {
+    font-family: verdana;
+    color: white;
+    text-align: center;
+}
+p {
+    font-size: 20;
+}
+.intro {
+
+    border: 0 solid #000;
+    border-right: 10px solid #000;
+    border-left: 10px solid #000;
+    margin: auto;
+}
+.options {
+    white-space: nowrap;
+}
